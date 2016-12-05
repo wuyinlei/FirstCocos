@@ -1,0 +1,883 @@
+2016-12-05T08:04:39.641Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-05T08:04:39.649Z - normal: checking language setting...
+2016-12-05T08:04:39.650Z - normal: Language: zh
+2016-12-05T08:04:39.691Z - success: protocol editor-framework registered
+2016-12-05T08:04:39.692Z - success: protocol app registered
+2016-12-05T08:04:39.692Z - success: protocol packages registered
+2016-12-05T08:04:39.692Z - success: protocol theme registered
+2016-12-05T08:04:39.693Z - success: protocol unpack registerred
+2016-12-05T08:04:39.763Z - normal: connected!
+2016-12-05T08:04:39.764Z - normal: Check project /Users/wuyinlei/Downloads/start_project
+2016-12-05T08:04:39.768Z - normal: Initializing Cocos Creator Editor
+2016-12-05T08:04:40.037Z - normal: Initializing Cocos2d
+2016-12-05T08:04:40.180Z - normal: Initializing Asset Database
+2016-12-05T08:04:40.201Z - success: protocol uuid registerred
+2016-12-05T08:04:40.201Z - success: protocol db registerred
+2016-12-05T08:04:40.202Z - success: protocol thumbnail registerred
+2016-12-05T08:04:40.202Z - normal: Loading editor/builtin packages
+2016-12-05T08:04:40.315Z - success: assets loaded
+2016-12-05T08:04:40.319Z - success: builder loaded
+2016-12-05T08:04:40.323Z - success: hierarchy loaded
+2016-12-05T08:04:40.328Z - success: inspector loaded
+2016-12-05T08:04:40.329Z - success: keystore loaded
+2016-12-05T08:04:40.334Z - success: node-library loaded
+2016-12-05T08:04:40.338Z - success: preferences loaded
+2016-12-05T08:04:40.352Z - success: project-importer loaded
+2016-12-05T08:04:40.355Z - success: project-settings loaded
+2016-12-05T08:04:40.360Z - success: ui-kit loaded
+2016-12-05T08:04:40.365Z - success: ui-grid loaded
+2016-12-05T08:04:40.370Z - success: scene loaded
+2016-12-05T08:04:40.372Z - success: sprite-editor loaded
+2016-12-05T08:04:40.378Z - success: timeline loaded
+2016-12-05T08:04:40.378Z - normal: Loading builtin packages
+2016-12-05T08:04:40.382Z - success: asset-db-debugger loaded
+2016-12-05T08:04:40.384Z - success: code-editor loaded
+2016-12-05T08:04:40.385Z - success: color-picker loaded
+2016-12-05T08:04:40.389Z - success: console loaded
+2016-12-05T08:04:40.393Z - success: package-manager loaded
+2016-12-05T08:04:40.396Z - success: tester loaded
+2016-12-05T08:04:40.399Z - success: ui-kit-preview-extra loaded
+2016-12-05T08:04:40.402Z - success: ui-kit-preview loaded
+2016-12-05T08:04:40.405Z - success: ui-tree loaded
+2016-12-05T08:04:40.435Z - normal: Initializing project /Users/wuyinlei/Downloads/start_project
+2016-12-05T08:04:40.438Z - normal: Loading packages
+2016-12-05T08:04:40.445Z - normal: Watching packages
+2016-12-05T08:04:40.455Z - normal: Run Application
+2016-12-05T08:04:41.014Z - success: preview server running at http://localhost:7456
+2016-12-05T08:04:44.776Z - normal: 1.3.2
+2016-12-05T08:04:45.312Z - error: Error: Can not get asset url by uuid "fd53c7b9-26ae-4bcb-80b3-18e081e263bb", the asset may be deleted.
+    at /Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCAssetLibrary.js:128:30
+    at EventEmitter.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:5427)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7)
+2016-12-05T08:05:13.119Z - normal: Compiled successfully
+2016-12-05T08:05:13.208Z - warn: Can not find script "152db869-ef89-46d0-86db-9a2b03b990f0"
+2016-12-05T08:05:13.209Z - warn: Can not find script "f9eb5773-c790-4a0d-95fc-0027d4e5c459"
+2016-12-05T08:05:13.211Z - warn: Can not find script "f9eb5773-c790-4a0d-95fc-0027d4e5c459"
+2016-12-05T08:20:31.505Z - normal: Compiled successfully
+2016-12-05T08:20:41.174Z - normal: Compiled successfully
+2016-12-05T08:21:04.183Z - normal: Compiled successfully
+2016-12-05T08:21:55.857Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 774.00
+2016-12-05T08:21:55.863Z - normal: Simulator: FRAME SCALE = 0.75
+2016-12-05T08:21:55.893Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2016-12-05T08:21:56.003Z - normal: Simulator: 
+2016-12-05T08:21:56.004Z - normal: Simulator: {
+2016-12-05T08:21:56.005Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-12-05T08:21:56.005Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-12-05T08:21:56.008Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-12-05T08:21:56.009Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-12-05T08:21:56.010Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-12-05T08:21:56.010Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2016-12-05T08:21:56.011Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-12-05T08:21:56.011Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-12-05T08:21:56.012Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-12-05T08:21:56.019Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-12-05T08:21:56.019Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-12-05T08:21:56.020Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-12-05T08:21:56.020Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-12-05T08:21:56.021Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-12-05T08:21:56.022Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-12-05T08:21:56.023Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.20.23
+2016-12-05T08:21:56.023Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-12-05T08:21:56.024Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-12-05T08:21:56.024Z - normal: Simulator: }
+2016-12-05T08:21:56.024Z - normal: Simulator: 
+2016-12-05T08:21:56.025Z - normal: Simulator: 
+2016-12-05T08:21:56.025Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-12-05T08:21:56.039Z - normal: Simulator: Project Config:
+2016-12-05T08:21:56.039Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-12-05T08:21:56.039Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-12-05T08:21:56.040Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-12-05T08:21:56.040Z - normal: Simulator:     frame size: 1334 x 750
+2016-12-05T08:21:56.040Z - normal: Simulator:     frame scale: 0.75
+2016-12-05T08:21:56.040Z - normal: Simulator:     show console: NO
+2016-12-05T08:21:56.041Z - normal: Simulator:     write debug log: NO ()
+2016-12-05T08:21:56.041Z - normal: Simulator:     listen: 
+2016-12-05T08:21:56.042Z - normal: Simulator:     debugger: none
+2016-12-05T08:21:56.042Z - normal: Simulator:     add searching path:
+2016-12-05T08:21:56.043Z - normal: Simulator: 
+2016-12-05T08:21:56.044Z - normal: Simulator: 
+2016-12-05T08:21:56.044Z - normal: Simulator: 
+2016-12-05T08:21:56.045Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:21:56.045Z - normal: Simulator: LOAD Js FILE: main.js
+2016-12-05T08:21:56.046Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:21:56.411Z - normal: Simulator: Cocos2d-JS v3.13
+2016-12-05T08:21:56.492Z - normal: Simulator: iShow!
+2016-12-05T08:22:08.545Z - normal: Simulator: I/AudioEngine-inl.mm (260): OpenAL was initialized successfully!
+2016-12-05T08:22:08.547Z - normal: Simulator: basic_object_finalize 0x146428b0 ...
+2016-12-05T08:22:08.548Z - normal: Simulator: jsbindings: finalizing JS object 0x146428e0 (WebSocket)
+2016-12-05T08:22:08.548Z - normal: Simulator: jsbindings: finalizing JS object 0x14642910 (SocketIO)
+2016-12-05T08:22:08.548Z - normal: Simulator: basic_object_finalize 0x14642970 ...
+2016-12-05T08:22:08.549Z - normal: Simulator: basic_object_finalize 0x14642b50 ...
+2016-12-05T08:24:03.646Z - normal: Compiled successfully
+2016-12-05T08:24:12.062Z - normal: Compiled successfully
+2016-12-05T08:24:32.012Z - normal: Compiled successfully
+2016-12-05T08:25:33.545Z - normal: Compiled successfully
+2016-12-05T08:25:39.228Z - normal: Compiled successfully
+2016-12-05T08:26:25.541Z - normal: Compiled successfully
+2016-12-05T08:27:46.172Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 774.00
+2016-12-05T08:27:46.176Z - normal: Simulator: FRAME SCALE = 0.75
+2016-12-05T08:27:46.181Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2016-12-05T08:27:46.337Z - normal: Simulator: 
+2016-12-05T08:27:46.337Z - normal: Simulator: {
+2016-12-05T08:27:46.339Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-12-05T08:27:46.339Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-12-05T08:27:46.340Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-12-05T08:27:46.342Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-12-05T08:27:46.342Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-12-05T08:27:46.345Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2016-12-05T08:27:46.351Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-12-05T08:27:46.353Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-12-05T08:27:46.354Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-12-05T08:27:46.357Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-12-05T08:27:46.357Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-12-05T08:27:46.358Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-12-05T08:27:46.358Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-12-05T08:27:46.359Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-12-05T08:27:46.360Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-12-05T08:27:46.360Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.20.23
+2016-12-05T08:27:46.360Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-12-05T08:27:46.361Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-12-05T08:27:46.361Z - normal: Simulator: }
+2016-12-05T08:27:46.362Z - normal: Simulator: 
+2016-12-05T08:27:46.362Z - normal: Simulator: 
+2016-12-05T08:27:46.362Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-12-05T08:27:46.363Z - normal: Simulator: Project Config:
+2016-12-05T08:27:46.365Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-12-05T08:27:46.369Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-12-05T08:27:46.370Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-12-05T08:27:46.370Z - normal: Simulator:     frame size: 1334 x 750
+2016-12-05T08:27:46.372Z - normal: Simulator:     frame scale: 0.75
+2016-12-05T08:27:46.372Z - normal: Simulator:     show console: NO
+2016-12-05T08:27:46.372Z - normal: Simulator:     write debug log: NO ()
+2016-12-05T08:27:46.373Z - normal: Simulator:     listen: 
+2016-12-05T08:27:46.373Z - normal: Simulator:     debugger: none
+2016-12-05T08:27:46.374Z - normal: Simulator:     add searching path:
+2016-12-05T08:27:46.376Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:27:46.376Z - normal: Simulator: LOAD Js FILE: main.js
+2016-12-05T08:27:46.377Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:27:46.779Z - normal: Simulator: Cocos2d-JS v3.13
+2016-12-05T08:27:46.848Z - normal: Simulator: iShow!
+2016-12-05T08:27:47.076Z - error: Simulator: TypeError: this.ground is null
+    at a: "this.groundY = this.ground.y + this.ground.height/2" (assets/scripts/Game.js:38:8)
+2016-12-05T08:27:49.988Z - normal: Simulator: basic_object_finalize 0x14e428b0 ...
+2016-12-05T08:27:49.989Z - normal: Simulator: jsbindings: finalizing JS object 0x14e428e0 (WebSocket)
+2016-12-05T08:27:49.989Z - normal: Simulator: jsbindings: finalizing JS object 0x14e42910 (SocketIO)
+2016-12-05T08:27:49.990Z - normal: Simulator: basic_object_finalize 0x14e42970 ...
+2016-12-05T08:27:49.990Z - normal: Simulator: basic_object_finalize 0x14e42b50 ...
+2016-12-05T08:29:14.487Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 774.00
+2016-12-05T08:29:14.489Z - normal: Simulator: FRAME SCALE = 0.75
+2016-12-05T08:29:14.493Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2016-12-05T08:29:14.612Z - normal: Simulator: 
+2016-12-05T08:29:14.612Z - normal: Simulator: {
+2016-12-05T08:29:14.612Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-12-05T08:29:14.613Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-12-05T08:29:14.613Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-12-05T08:29:14.613Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-12-05T08:29:14.614Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-12-05T08:29:14.614Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2016-12-05T08:29:14.614Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-12-05T08:29:14.615Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-12-05T08:29:14.616Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-12-05T08:29:14.617Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-12-05T08:29:14.618Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-12-05T08:29:14.619Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-12-05T08:29:14.621Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-12-05T08:29:14.622Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-12-05T08:29:14.623Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-12-05T08:29:14.624Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.20.23
+2016-12-05T08:29:14.624Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-12-05T08:29:14.625Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-12-05T08:29:14.625Z - normal: Simulator: }
+2016-12-05T08:29:14.626Z - normal: Simulator: 
+2016-12-05T08:29:14.626Z - normal: Simulator: 
+2016-12-05T08:29:14.626Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-12-05T08:29:14.627Z - normal: Simulator: Project Config:
+2016-12-05T08:29:14.627Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-12-05T08:29:14.627Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-12-05T08:29:14.629Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-12-05T08:29:14.629Z - normal: Simulator:     frame size: 1334 x 750
+2016-12-05T08:29:14.629Z - normal: Simulator:     frame scale: 0.75
+2016-12-05T08:29:14.630Z - normal: Simulator:     show console: NO
+2016-12-05T08:29:14.631Z - normal: Simulator:     write debug log: NO ()
+2016-12-05T08:29:14.631Z - normal: Simulator:     listen: 
+2016-12-05T08:29:14.632Z - normal: Simulator:     debugger: none
+2016-12-05T08:29:14.632Z - normal: Simulator:     add searching path:
+2016-12-05T08:29:14.632Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:29:14.632Z - normal: Simulator: LOAD Js FILE: main.js
+2016-12-05T08:29:14.633Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:29:14.924Z - normal: Simulator: Cocos2d-JS v3.13
+2016-12-05T08:29:15.020Z - normal: Simulator: iShow!
+2016-12-05T08:29:19.214Z - normal: Simulator: I/AudioEngine-inl.mm (260): OpenAL was initialized successfully!
+2016-12-05T08:29:19.214Z - normal: Simulator: basic_object_finalize 0x104428b0 ...
+2016-12-05T08:29:19.214Z - normal: Simulator: jsbindings: finalizing JS object 0x104428e0 (WebSocket)
+2016-12-05T08:29:19.215Z - normal: Simulator: jsbindings: finalizing JS object 0x10442910 (SocketIO)
+2016-12-05T08:29:19.215Z - normal: Simulator: basic_object_finalize 0x10442970 ...
+2016-12-05T08:29:19.216Z - normal: Simulator: basic_object_finalize 0x10442b50 ...
+2016-12-05T08:29:25.665Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 774.00
+2016-12-05T08:29:25.668Z - normal: Simulator: FRAME SCALE = 0.75
+2016-12-05T08:29:25.678Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2016-12-05T08:29:25.791Z - normal: Simulator: 
+2016-12-05T08:29:25.792Z - normal: Simulator: {
+2016-12-05T08:29:25.793Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-12-05T08:29:25.793Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-12-05T08:29:25.794Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-12-05T08:29:25.794Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-12-05T08:29:25.795Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-12-05T08:29:25.795Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2016-12-05T08:29:25.795Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-12-05T08:29:25.796Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-12-05T08:29:25.797Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-12-05T08:29:25.799Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-12-05T08:29:25.800Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-12-05T08:29:25.801Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-12-05T08:29:25.802Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-12-05T08:29:25.808Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-12-05T08:29:25.808Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-12-05T08:29:25.809Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.20.23
+2016-12-05T08:29:25.809Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-12-05T08:29:25.810Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-12-05T08:29:25.810Z - normal: Simulator: }
+2016-12-05T08:29:25.811Z - normal: Simulator: 
+2016-12-05T08:29:25.811Z - normal: Simulator: 
+2016-12-05T08:29:25.811Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-12-05T08:29:25.812Z - normal: Simulator: Project Config:
+2016-12-05T08:29:25.813Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-12-05T08:29:25.814Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-12-05T08:29:25.814Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-12-05T08:29:25.815Z - normal: Simulator:     frame size: 1334 x 750
+2016-12-05T08:29:25.815Z - normal: Simulator:     frame scale: 0.75
+2016-12-05T08:29:25.816Z - normal: Simulator:     show console: NO
+2016-12-05T08:29:25.819Z - normal: Simulator:     write debug log: NO ()
+2016-12-05T08:29:25.820Z - normal: Simulator:     listen: 
+2016-12-05T08:29:25.822Z - normal: Simulator:     debugger: none
+2016-12-05T08:29:25.823Z - normal: Simulator:     add searching path:
+2016-12-05T08:29:25.823Z - normal: Simulator: 
+2016-12-05T08:29:25.824Z - normal: Simulator: 
+2016-12-05T08:29:25.824Z - normal: Simulator: 
+2016-12-05T08:29:25.825Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:29:25.825Z - normal: Simulator: LOAD Js FILE: main.js
+2016-12-05T08:29:25.826Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:29:26.110Z - normal: Simulator: Cocos2d-JS v3.13
+2016-12-05T08:29:26.202Z - normal: Simulator: iShow!
+2016-12-05T08:29:29.370Z - normal: Simulator: I/AudioEngine-inl.mm (260): OpenAL was initialized successfully!
+2016-12-05T08:29:29.371Z - normal: Simulator: basic_object_finalize 0xfe428b0 ...
+2016-12-05T08:29:29.371Z - normal: Simulator: jsbindings: finalizing JS object 0xfe428e0 (WebSocket)
+2016-12-05T08:29:29.371Z - normal: Simulator: jsbindings: finalizing JS object 0xfe42910 (SocketIO)
+2016-12-05T08:29:29.372Z - normal: Simulator: basic_object_finalize 0xfe42970 ...
+2016-12-05T08:29:29.373Z - normal: Simulator: basic_object_finalize 0xfe42b50 ...
+2016-12-05T08:38:43.565Z - error: Failed to update asset db://assets/scripts/Star.js, messages: Compile error: SyntaxError: unknown: Unexpected token (21:35)
+    // use this for initialization
+    onLoad: function () {
+        getPlayerDistance: function(){
+            //根据player节点的位置判断距离
+            var playerPos = this.game.player.getPosition();
+            //根据两点位置计算两点之间的距离
+    at Parser.pp.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/location.js:24:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/util.js:82:8)
+    at Parser.pp.parseIdent (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/expression.js:818:10)
+    at Parser.pp.parseFunction (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/statement.js:520:20)
+    at Parser.pp.parseFunctionStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/statement.js:262:15)
+    at Parser.pp.parseStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/statement.js:79:19)
+    at Parser.parseStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/plugins/flow.js:655:22)
+    at Parser.pp.parseLabeledStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/statement.js:419:20)
+    at Parser.pp.parseStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/statement.js:140:21)
+    at Parser.parseStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/plugins/flow.js:655:22)
+    at Parser.pp.parseBlock (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/statement.js:442:21)
+    at Parser.pp.parseFunctionBody (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/expression.js:747:22)
+    at Parser.parseFunctionBody (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/plugins/flow.js:643:20)
+    at Parser.pp.parseFunction (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/statement.js:524:8)
+    at Parser.pp.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/expression.js:397:19)
+    at Parser.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/plugins/jsx/index.js:412:22)
+    at e.AssetDB.error (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/utils.js:1:2582)
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/ipc.js:1:4434)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at e.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/index.js:1:1655)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:20698
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:696:30
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:167:37
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:1209:30
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:5473
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:726:13
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
+2016-12-05T08:40:19.670Z - normal: Compiled successfully
+2016-12-05T08:40:22.077Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 774.00
+2016-12-05T08:40:22.082Z - normal: Simulator: FRAME SCALE = 0.75
+2016-12-05T08:40:22.089Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2016-12-05T08:40:22.190Z - normal: Simulator: 
+2016-12-05T08:40:22.191Z - normal: Simulator: {
+2016-12-05T08:40:22.191Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-12-05T08:40:22.192Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-12-05T08:40:22.192Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-12-05T08:40:22.193Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-12-05T08:40:22.193Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-12-05T08:40:22.193Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2016-12-05T08:40:22.193Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-12-05T08:40:22.193Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-12-05T08:40:22.194Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-12-05T08:40:22.194Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-12-05T08:40:22.197Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-12-05T08:40:22.198Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-12-05T08:40:22.198Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-12-05T08:40:22.198Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-12-05T08:40:22.199Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-12-05T08:40:22.199Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.20.23
+2016-12-05T08:40:22.199Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-12-05T08:40:22.199Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-12-05T08:40:22.201Z - normal: Simulator: }
+2016-12-05T08:40:22.201Z - normal: Simulator: 
+2016-12-05T08:40:22.202Z - normal: Simulator: 
+2016-12-05T08:40:22.202Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-12-05T08:40:22.222Z - normal: Simulator: Project Config:
+2016-12-05T08:40:22.223Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-12-05T08:40:22.224Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-12-05T08:40:22.224Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-12-05T08:40:22.224Z - normal: Simulator:     frame size: 1334 x 750
+2016-12-05T08:40:22.225Z - normal: Simulator:     frame scale: 0.75
+2016-12-05T08:40:22.225Z - normal: Simulator:     show console: NO
+2016-12-05T08:40:22.226Z - normal: Simulator:     write debug log: NO ()
+2016-12-05T08:40:22.226Z - normal: Simulator:     listen: 
+2016-12-05T08:40:22.227Z - normal: Simulator:     debugger: none
+2016-12-05T08:40:22.227Z - normal: Simulator:     add searching path:
+2016-12-05T08:40:22.228Z - normal: Simulator: 
+2016-12-05T08:40:22.228Z - normal: Simulator: 
+2016-12-05T08:40:22.229Z - normal: Simulator: 
+2016-12-05T08:40:22.238Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:40:22.239Z - normal: Simulator: LOAD Js FILE: main.js
+2016-12-05T08:40:22.239Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:40:22.634Z - normal: Simulator: Cocos2d-JS v3.13
+2016-12-05T08:40:22.728Z - normal: Simulator: iShow!
+2016-12-05T08:40:39.276Z - normal: Simulator: I/AudioEngine-inl.mm (260): OpenAL was initialized successfully!
+2016-12-05T08:40:39.276Z - normal: Simulator: basic_object_finalize 0x199428b0 ...
+2016-12-05T08:40:39.277Z - normal: Simulator: jsbindings: finalizing JS object 0x199428e0 (WebSocket)
+2016-12-05T08:40:39.277Z - normal: Simulator: jsbindings: finalizing JS object 0x19942910 (SocketIO)
+2016-12-05T08:40:39.277Z - normal: Simulator: basic_object_finalize 0x19942970 ...
+2016-12-05T08:40:39.278Z - normal: Simulator: basic_object_finalize 0x19942b50 ...
+2016-12-05T08:45:28.528Z - normal: Compiled successfully
+2016-12-05T08:46:20.470Z - normal: Compiled successfully
+2016-12-05T08:46:22.947Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 774.00
+2016-12-05T08:46:22.969Z - normal: Simulator: FRAME SCALE = 0.75
+2016-12-05T08:46:22.970Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2016-12-05T08:46:23.126Z - normal: Simulator: 
+2016-12-05T08:46:23.126Z - normal: Simulator: {
+2016-12-05T08:46:23.127Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-12-05T08:46:23.127Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-12-05T08:46:23.128Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-12-05T08:46:23.128Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-12-05T08:46:23.128Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-12-05T08:46:23.129Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2016-12-05T08:46:23.129Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-12-05T08:46:23.129Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-12-05T08:46:23.130Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-12-05T08:46:23.130Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-12-05T08:46:23.130Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-12-05T08:46:23.131Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-12-05T08:46:23.131Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-12-05T08:46:23.131Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-12-05T08:46:23.132Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-12-05T08:46:23.132Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.20.23
+2016-12-05T08:46:23.132Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-12-05T08:46:23.133Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-12-05T08:46:23.133Z - normal: Simulator: }
+2016-12-05T08:46:23.134Z - normal: Simulator: 
+2016-12-05T08:46:23.134Z - normal: Simulator: 
+2016-12-05T08:46:23.134Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-12-05T08:46:23.135Z - normal: Simulator: Project Config:
+2016-12-05T08:46:23.135Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-12-05T08:46:23.136Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-12-05T08:46:23.136Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-12-05T08:46:23.136Z - normal: Simulator:     frame size: 1334 x 750
+2016-12-05T08:46:23.137Z - normal: Simulator:     frame scale: 0.75
+2016-12-05T08:46:23.137Z - normal: Simulator:     show console: NO
+2016-12-05T08:46:23.137Z - normal: Simulator:     write debug log: NO ()
+2016-12-05T08:46:23.137Z - normal: Simulator:     listen: 
+2016-12-05T08:46:23.138Z - normal: Simulator:     debugger: none
+2016-12-05T08:46:23.145Z - normal: Simulator:     add searching path:
+2016-12-05T08:46:23.146Z - normal: Simulator: 
+2016-12-05T08:46:23.146Z - normal: Simulator: 
+2016-12-05T08:46:23.146Z - normal: Simulator: 
+2016-12-05T08:46:23.147Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:46:23.147Z - normal: Simulator: LOAD Js FILE: main.js
+2016-12-05T08:46:23.147Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:46:23.536Z - normal: Simulator: Cocos2d-JS v3.13
+2016-12-05T08:46:23.611Z - normal: Simulator: iShow!
+2016-12-05T08:46:23.860Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2016-12-05T08:46:28.420Z - normal: Simulator: I/AudioEngine-inl.mm (260): OpenAL was initialized successfully!
+2016-12-05T08:46:28.428Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.436Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.456Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.487Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.488Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.503Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.523Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.539Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.553Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.575Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.592Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.609Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.626Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.638Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.649Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.667Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.699Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.716Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.734Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.754Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.766Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.784Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.800Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.814Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.833Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.847Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.866Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.889Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.896Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.913Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.930Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.947Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.968Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.992Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:28.999Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.012Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.034Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.045Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.063Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.079Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.097Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.120Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.129Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.147Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.164Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.180Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.198Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.215Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.233Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.245Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.267Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.280Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.294Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.312Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.330Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.353Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.363Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.378Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.397Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.413Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.433Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.446Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.465Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.485Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.499Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.516Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.535Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.549Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.563Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.579Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.603Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.616Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.628Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.646Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.665Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.681Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.697Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.714Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.736Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.748Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.767Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.783Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.798Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.815Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.831Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.853Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.882Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.885Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.898Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.913Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.934Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.950Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.973Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:29.992Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.015Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.025Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.043Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.050Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.065Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.082Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.098Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.120Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.136Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.149Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.164Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.182Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.200Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.220Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.236Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.253Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.263Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.285Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.301Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.315Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.339Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.350Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.371Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.381Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.402Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.415Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.431Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.448Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.466Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.483Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:30.505Z - error: Simulator: TypeError: this.scoreDisplay is null
+    at a: "this.scoreDisplay.string = 'Score: ' + this.score.toString()" (assets/scripts/Game.js:87:8)
+2016-12-05T08:46:32.534Z - normal: Simulator: basic_object_finalize 0x159428b0 ...
+2016-12-05T08:46:32.534Z - normal: Simulator: jsbindings: finalizing JS object 0x159428e0 (WebSocket)
+2016-12-05T08:46:32.535Z - normal: Simulator: jsbindings: finalizing JS object 0x15942910 (SocketIO)
+2016-12-05T08:46:32.535Z - normal: Simulator: basic_object_finalize 0x15942970 ...
+2016-12-05T08:46:32.535Z - normal: Simulator: basic_object_finalize 0x15942b50 ...
+2016-12-05T08:47:53.368Z - normal: Compiled successfully
+2016-12-05T08:48:21.440Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 774.00
+2016-12-05T08:48:21.446Z - normal: Simulator: FRAME SCALE = 0.75
+2016-12-05T08:48:21.463Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2016-12-05T08:48:21.573Z - normal: Simulator: 
+2016-12-05T08:48:21.573Z - normal: Simulator: {
+2016-12-05T08:48:21.581Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-12-05T08:48:21.581Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-12-05T08:48:21.582Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-12-05T08:48:21.582Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-12-05T08:48:21.582Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-12-05T08:48:21.583Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2016-12-05T08:48:21.583Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-12-05T08:48:21.583Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-12-05T08:48:21.584Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-12-05T08:48:21.584Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-12-05T08:48:21.585Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-12-05T08:48:21.585Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-12-05T08:48:21.586Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-12-05T08:48:21.587Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-12-05T08:48:21.587Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-12-05T08:48:21.588Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.20.23
+2016-12-05T08:48:21.590Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-12-05T08:48:21.591Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-12-05T08:48:21.592Z - normal: Simulator: }
+2016-12-05T08:48:21.592Z - normal: Simulator: 
+2016-12-05T08:48:21.593Z - normal: Simulator: 
+2016-12-05T08:48:21.594Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-12-05T08:48:21.614Z - normal: Simulator: Project Config:
+2016-12-05T08:48:21.614Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-12-05T08:48:21.615Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-12-05T08:48:21.615Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-12-05T08:48:21.615Z - normal: Simulator:     frame size: 1334 x 750
+2016-12-05T08:48:21.616Z - normal: Simulator:     frame scale: 0.75
+2016-12-05T08:48:21.616Z - normal: Simulator:     show console: NO
+2016-12-05T08:48:21.617Z - normal: Simulator:     write debug log: NO ()
+2016-12-05T08:48:21.617Z - normal: Simulator:     listen: 
+2016-12-05T08:48:21.617Z - normal: Simulator:     debugger: none
+2016-12-05T08:48:21.618Z - normal: Simulator:     add searching path:
+2016-12-05T08:48:21.618Z - normal: Simulator: 
+2016-12-05T08:48:21.619Z - normal: Simulator: 
+2016-12-05T08:48:21.619Z - normal: Simulator: 
+2016-12-05T08:48:21.619Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:48:21.620Z - normal: Simulator: LOAD Js FILE: main.js
+2016-12-05T08:48:21.620Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:48:22.026Z - normal: Simulator: Cocos2d-JS v3.13
+2016-12-05T08:48:22.102Z - normal: Simulator: iShow!
+2016-12-05T08:48:22.331Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2016-12-05T08:48:50.980Z - normal: Simulator: I/AudioEngine-inl.mm (260): OpenAL was initialized successfully!
+2016-12-05T08:48:50.981Z - normal: Simulator: basic_object_finalize 0xd0428b0 ...
+2016-12-05T08:48:50.982Z - normal: Simulator: jsbindings: finalizing JS object 0xd0428e0 (WebSocket)
+2016-12-05T08:48:50.982Z - normal: Simulator: jsbindings: finalizing JS object 0xd042910 (SocketIO)
+2016-12-05T08:48:50.982Z - normal: Simulator: basic_object_finalize 0xd042970 ...
+2016-12-05T08:48:50.982Z - normal: Simulator: basic_object_finalize 0xd042b50 ...
+2016-12-05T08:55:00.022Z - normal: Compiled successfully
+2016-12-05T08:55:01.524Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 774.00
+2016-12-05T08:55:01.532Z - normal: Simulator: FRAME SCALE = 0.75
+2016-12-05T08:55:01.538Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2016-12-05T08:55:01.641Z - normal: Simulator: 
+2016-12-05T08:55:01.641Z - normal: Simulator: {
+2016-12-05T08:55:01.642Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-12-05T08:55:01.653Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-12-05T08:55:01.653Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-12-05T08:55:01.654Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-12-05T08:55:01.655Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-12-05T08:55:01.655Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2016-12-05T08:55:01.656Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-12-05T08:55:01.656Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-12-05T08:55:01.657Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-12-05T08:55:01.657Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-12-05T08:55:01.658Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-12-05T08:55:01.659Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-12-05T08:55:01.659Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-12-05T08:55:01.660Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-12-05T08:55:01.660Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-12-05T08:55:01.661Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.20.23
+2016-12-05T08:55:01.662Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-12-05T08:55:01.662Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-12-05T08:55:01.662Z - normal: Simulator: }
+2016-12-05T08:55:01.662Z - normal: Simulator: 
+2016-12-05T08:55:01.663Z - normal: Simulator: 
+2016-12-05T08:55:01.663Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-12-05T08:55:01.674Z - normal: Simulator: Project Config:
+2016-12-05T08:55:01.674Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-12-05T08:55:01.674Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-12-05T08:55:01.675Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-12-05T08:55:01.675Z - normal: Simulator:     frame size: 1334 x 750
+2016-12-05T08:55:01.675Z - normal: Simulator:     frame scale: 0.75
+2016-12-05T08:55:01.676Z - normal: Simulator:     show console: NO
+2016-12-05T08:55:01.676Z - normal: Simulator:     write debug log: NO ()
+2016-12-05T08:55:01.676Z - normal: Simulator:     listen: 
+2016-12-05T08:55:01.676Z - normal: Simulator:     debugger: none
+2016-12-05T08:55:01.677Z - normal: Simulator:     add searching path:
+2016-12-05T08:55:01.677Z - normal: Simulator: 
+2016-12-05T08:55:01.677Z - normal: Simulator: 
+2016-12-05T08:55:01.677Z - normal: Simulator: 
+2016-12-05T08:55:01.678Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:55:01.678Z - normal: Simulator: LOAD Js FILE: main.js
+2016-12-05T08:55:01.678Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:55:02.073Z - normal: Simulator: Cocos2d-JS v3.13
+2016-12-05T08:55:02.141Z - normal: Simulator: iShow!
+2016-12-05T08:55:02.367Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2016-12-05T08:55:05.674Z - normal: Simulator: I/AudioEngine-inl.mm (260): OpenAL was initialized successfully!
+2016-12-05T08:55:05.675Z - normal: Simulator: loadScene: Failed to load scene "game" because "game" is already loading
+2016-12-05T08:55:05.679Z - normal: Simulator: Unsupported listener target.
+2016-12-05T08:55:08.417Z - normal: Simulator: basic_object_finalize 0x109428b0 ...
+2016-12-05T08:55:08.418Z - normal: Simulator: jsbindings: finalizing JS object 0x109428e0 (WebSocket)
+2016-12-05T08:55:08.418Z - normal: Simulator: jsbindings: finalizing JS object 0x10942910 (SocketIO)
+2016-12-05T08:55:08.419Z - normal: Simulator: basic_object_finalize 0x10942970 ...
+2016-12-05T08:55:08.419Z - normal: Simulator: basic_object_finalize 0x10942b50 ...
+2016-12-05T08:55:10.092Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 774.00
+2016-12-05T08:55:10.096Z - normal: Simulator: FRAME SCALE = 0.75
+2016-12-05T08:55:10.103Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2016-12-05T08:55:10.221Z - normal: Simulator: 
+2016-12-05T08:55:10.221Z - normal: Simulator: {
+2016-12-05T08:55:10.228Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-12-05T08:55:10.229Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-12-05T08:55:10.229Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-12-05T08:55:10.229Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-12-05T08:55:10.230Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-12-05T08:55:10.231Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2016-12-05T08:55:10.231Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-12-05T08:55:10.232Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-12-05T08:55:10.232Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-12-05T08:55:10.233Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-12-05T08:55:10.233Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-12-05T08:55:10.247Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-12-05T08:55:10.248Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-12-05T08:55:10.248Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-12-05T08:55:10.248Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-12-05T08:55:10.249Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.20.23
+2016-12-05T08:55:10.249Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-12-05T08:55:10.250Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-12-05T08:55:10.251Z - normal: Simulator: }
+2016-12-05T08:55:10.251Z - normal: Simulator: 
+2016-12-05T08:55:10.252Z - normal: Simulator: 
+2016-12-05T08:55:10.252Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-12-05T08:55:10.253Z - normal: Simulator: Project Config:
+2016-12-05T08:55:10.253Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-12-05T08:55:10.254Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-12-05T08:55:10.254Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-12-05T08:55:10.254Z - normal: Simulator:     frame size: 1334 x 750
+2016-12-05T08:55:10.255Z - normal: Simulator:     frame scale: 0.75
+2016-12-05T08:55:10.255Z - normal: Simulator:     show console: NO
+2016-12-05T08:55:10.255Z - normal: Simulator:     write debug log: NO ()
+2016-12-05T08:55:10.256Z - normal: Simulator:     listen: 
+2016-12-05T08:55:10.256Z - normal: Simulator:     debugger: none
+2016-12-05T08:55:10.256Z - normal: Simulator:     add searching path:
+2016-12-05T08:55:10.257Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:55:10.257Z - normal: Simulator: LOAD Js FILE: main.js
+2016-12-05T08:55:10.257Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:55:10.514Z - normal: Simulator: Cocos2d-JS v3.13
+2016-12-05T08:55:10.586Z - normal: Simulator: iShow!
+2016-12-05T08:55:10.783Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2016-12-05T08:55:16.807Z - normal: Simulator: I/AudioEngine-inl.mm (260): OpenAL was initialized successfully!
+2016-12-05T08:55:16.808Z - normal: Simulator: loadScene: Failed to load scene "game" because "game" is already loading
+2016-12-05T08:55:16.811Z - normal: Simulator: Unsupported listener target.
+2016-12-05T08:55:18.721Z - normal: Simulator: basic_object_finalize 0x115428b0 ...
+2016-12-05T08:55:18.722Z - normal: Simulator: jsbindings: finalizing JS object 0x115428e0 (WebSocket)
+2016-12-05T08:55:18.722Z - normal: Simulator: jsbindings: finalizing JS object 0x11542910 (SocketIO)
+2016-12-05T08:55:18.723Z - normal: Simulator: basic_object_finalize 0x11542970 ...
+2016-12-05T08:55:18.723Z - normal: Simulator: basic_object_finalize 0x11542b50 ...
+2016-12-05T08:56:30.935Z - normal: Compiled successfully
+2016-12-05T08:56:32.592Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 774.00
+2016-12-05T08:56:32.600Z - normal: Simulator: FRAME SCALE = 0.75
+2016-12-05T08:56:32.607Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2016-12-05T08:56:32.722Z - normal: Simulator: 
+2016-12-05T08:56:32.722Z - normal: Simulator: {
+2016-12-05T08:56:32.723Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-12-05T08:56:32.723Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-12-05T08:56:32.724Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-12-05T08:56:32.726Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-12-05T08:56:32.727Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-12-05T08:56:32.727Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2016-12-05T08:56:32.727Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-12-05T08:56:32.728Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-12-05T08:56:32.728Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-12-05T08:56:32.728Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-12-05T08:56:32.729Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-12-05T08:56:32.729Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-12-05T08:56:32.730Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-12-05T08:56:32.730Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-12-05T08:56:32.731Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-12-05T08:56:32.731Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.20.23
+2016-12-05T08:56:32.732Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-12-05T08:56:32.733Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-12-05T08:56:32.734Z - normal: Simulator: }
+2016-12-05T08:56:32.734Z - normal: Simulator: 
+2016-12-05T08:56:32.735Z - normal: Simulator: 
+2016-12-05T08:56:32.737Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-12-05T08:56:32.738Z - normal: Simulator: Project Config:
+2016-12-05T08:56:32.741Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-12-05T08:56:32.742Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-12-05T08:56:32.748Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-12-05T08:56:32.749Z - normal: Simulator:     frame size: 1334 x 750
+2016-12-05T08:56:32.750Z - normal: Simulator:     frame scale: 0.75
+2016-12-05T08:56:32.752Z - normal: Simulator:     show console: NO
+2016-12-05T08:56:32.754Z - normal: Simulator:     write debug log: NO ()
+2016-12-05T08:56:32.755Z - normal: Simulator:     listen: 
+2016-12-05T08:56:32.755Z - normal: Simulator:     debugger: none
+2016-12-05T08:56:32.756Z - normal: Simulator:     add searching path:
+2016-12-05T08:56:32.756Z - normal: Simulator: 
+2016-12-05T08:56:32.757Z - normal: Simulator: 
+2016-12-05T08:56:32.757Z - normal: Simulator: 
+2016-12-05T08:56:32.758Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:56:32.758Z - normal: Simulator: LOAD Js FILE: main.js
+2016-12-05T08:56:32.759Z - normal: Simulator: ------------------------------------------------
+2016-12-05T08:56:33.105Z - normal: Simulator: Cocos2d-JS v3.13
+2016-12-05T08:56:33.177Z - normal: Simulator: iShow!
+2016-12-05T08:56:33.409Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2016-12-05T08:56:37.065Z - normal: Simulator: I/AudioEngine-inl.mm (260): OpenAL was initialized successfully!
+2016-12-05T08:56:37.066Z - normal: Simulator: loadScene: Failed to load scene "game" because "game" is already loading
+2016-12-05T08:56:37.068Z - normal: Simulator: Unsupported listener target.
+2016-12-05T08:56:38.825Z - normal: Simulator: basic_object_finalize 0x100428b0 ...
+2016-12-05T08:56:38.826Z - normal: Simulator: jsbindings: finalizing JS object 0x100428e0 (WebSocket)
+2016-12-05T08:56:38.826Z - normal: Simulator: jsbindings: finalizing JS object 0x10042910 (SocketIO)
+2016-12-05T08:56:38.826Z - normal: Simulator: basic_object_finalize 0x10042970 ...
+2016-12-05T08:56:38.827Z - normal: Simulator: basic_object_finalize 0x10042b50 ...
+2016-12-05T09:00:05.307Z - normal: Compiled successfully
